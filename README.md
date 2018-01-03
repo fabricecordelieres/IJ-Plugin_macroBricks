@@ -2,6 +2,12 @@
 macroBricks is an ImageJ plugin dedicated at keeping track of your most useful user-defined macro functions.
 This software also works in stand-alone mode.
 
+## How to install/run it ?
+
+1. Download the macroBrick_.jar file from the [release section](https://github.com/fabricecordelieres/IJ_macroBricks/releases).
+2. To run it directly as a stand-alone software, double-click on the file (a Java Virtual Machine is required).
+3. To use it as aprt of the ImageJ environment, drag-and-drop the file to the ImageJ's toolbar. When asked, save the file to the proposed folder.
+
 ## GUI
 ![macroBricks_GUI](img/macroBlocks_GUI.jpeg "macroBricks_GUI")
 
