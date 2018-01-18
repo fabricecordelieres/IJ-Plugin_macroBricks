@@ -301,7 +301,7 @@ public class brickGUI extends JFrame{
 							case KeyEvent.VK_S: 
 												if(btnAdd.getText()=="Save") {addAction(); break;}
 												if(btnUpdate.getText()=="Save") {updateAction(); break;}
-												if(btnDelete.getText()=="Save") {deleteAction();addAction(); break;}
+												if(btnDelete.getText()=="Save") {deleteAction(); break;}
 												break;
 							case KeyEvent.VK_P: pushAction(); break; 											
 						}
