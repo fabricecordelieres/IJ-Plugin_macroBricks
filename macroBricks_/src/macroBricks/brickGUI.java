@@ -311,7 +311,7 @@ public class brickGUI extends JFrame{
 						if(btnClose.getText()=="Cancel") closeAction();
 					}
 				}
-				return true;
+				return false;
 			}
 			
 		});
